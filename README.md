@@ -71,7 +71,7 @@ Desenvolver uma plataforma de monitoramento inteligente capaz de:
 1. Clone o repositório:
 
 ```bash
-git clone LINK_DO_REPOSITORIO
+git clone https://github.com/luquetabertolini/gs-sers
 ```
 
 2. Entre na pasta do projeto:
@@ -83,7 +83,7 @@ cd Mission-Control-AI
 3. Execute o programa:
 
 ```bash
-python main.py
+python gs-sers.py
 ```
 
 ---
@@ -96,9 +96,8 @@ O sistema foi projetado considerando conceitos de energias renováveis, utilizan
 
 ## Integrantes
 
-* Nome Completo 1
-* Nome Completo 2
-* Nome Completo 3
+Lucca Bertolini - RM: 569552
+Raphaello Caffettani - RM: 572334
 
 ---
 
@@ -114,4 +113,4 @@ https://youtube.com/SEU_VIDEO
 
 Link do GitHub:
 
-https://github.com/SEU_USUARIO/SEU_REPOSITORIO
+(https://github.com/luquetabertolini/gs-sers)
