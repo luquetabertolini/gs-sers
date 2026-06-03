@@ -71,7 +71,7 @@ Desenvolver uma plataforma de monitoramento inteligente capaz de:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/luquetabertolini/gs-sers
+git clone https://github.com/luquetabertolini/gs-sers/tree/main
 ```
 
 2. Entre na pasta do projeto:
